@@ -1,7 +1,7 @@
-import './style.css';
+import './styles/tailwind.css';
 
 function App() {
-  return <div className="App">My Portfolio</div>;
+  return <div className="text-2xl">My Portfolio</div>;
 }
 
 export default App;
